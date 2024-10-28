@@ -2,6 +2,7 @@
     "name":  "redux-practice",
     "version":  "0.1.0",
     "private":  true,
+    "homepage":  "./",
     "dependencies":  {
                          "@reduxjs/toolkit":  "^1.9.2",
                          "@testing-library/jest-dom":  "^5.16.5",
@@ -41,6 +42,7 @@
                      },
     "devDependencies":  {
                             "gh-pages":  "^6.0.0"
-                        },
-    "homepage":  "https://shivam-kumar-shah.github.io/tic-tac-toe"
+                        }
+    
+
 }
