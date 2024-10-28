@@ -13,17 +13,13 @@ The Tic-Tac-Toe Game is a web-based application built using React and Redux for 
 
 - **Interactive Gameplay**: Click to make your moves, and the game will track the progress.
 
-- **Win Detection**: The game automatically detects a winning move and declares a winner.
-
-## Demo
-
-Check out the live demo [here](https://shivam-kumar-shah.github.io/tic-tac-toe).
+- **Win Detection**: The game automatically detects a winning move and declares a winner. 
 
 ## Getting Started
 
 To run the Tic-Tac-Toe Game locally, follow these steps:
 
-1. Clone the repository from [GitHub Repo](https://github.com/shivam-kumar-shah/tic-tac-toe).
+1. Clone the repository from [GitHub Repo](https://github.com/Ankur-code281/Tic-Toc-Game-).
 2. Install the required dependencies using `npm install`.
 3. Start the application using `npm start`.
 
