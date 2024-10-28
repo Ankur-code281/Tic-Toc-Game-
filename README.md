@@ -38,17 +38,11 @@ To run the Tic-Tac-Toe Game locally, follow these steps:
 - React
 - Redux
 
-## Deployment
-
-This project is hosted on GitHub Pages and can be accessed at [https://shivam-kumar-shah.github.io/tic-tac-toe](https://shivam-kumar-shah.github.io/tic-tac-toe).
 
 ## Contributing
 
 Contributions are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request.
 
-## Contact
-
-For any inquiries or feedback, feel free to contact us at [shivam-kumar-shah@outlook.com](mailto:shivam-kumar-shah@outlook.com).
 
 ---
 
